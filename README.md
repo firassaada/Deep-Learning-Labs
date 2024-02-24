@@ -8,4 +8,4 @@ This repository contains my work and assignments for the Deep Learning Labs cour
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/deep-learning-labs.git
+   git clone https://github.com/firassaada/Deep-Learning-Labs.git
